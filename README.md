@@ -15,6 +15,6 @@ then run methods one by one
 
 > seeder.saveCountries()
 
-> seeder.saveCities()
-
 > seeder.saveStates()
+
+> seeder.saveCities()
