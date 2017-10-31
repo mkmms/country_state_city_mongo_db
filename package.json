@@ -1,0 +1,31 @@
+{
+  "name": "country_state_city",
+  "version": "1.0.0",
+  "description": "Seed country, State, City in mongodb through express and mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mkmms/country_state_city_mongo_db.git"
+  },
+  "keywords": [
+    "country",
+    "State",
+    "City",
+    "in",
+    "mongodb"
+  ],
+  "author": "Mohankumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkmms/country_state_city_mongo_db/issues"
+  },
+  "homepage": "https://github.com/mkmms/country_state_city_mongo_db#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "mongoose": "^4.12.5"
+  }
+}
